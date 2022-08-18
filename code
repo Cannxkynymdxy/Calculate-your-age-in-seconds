@@ -1,0 +1,3 @@
+age = float(input("How old are you? "))
+sec = age * 365 * 60 * 60 * 24
+print(f"You are {sec} seconds old.")
